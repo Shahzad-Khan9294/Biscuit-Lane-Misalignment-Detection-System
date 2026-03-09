@@ -34,6 +34,12 @@ This solution acts as an AI-based production guardrail, continuously verifying t
 
 ✅ Automated Evidence Capture
 
+**Run Services**
+
+    ```bash
+    python biscuit_analysis_updated_code.py
+    ```
+
 ## Here are few Snapshots of work:
 
 <img width="1448" height="982" alt="Screenshot 2026-03-02 150842" src="https://github.com/user-attachments/assets/769d6faf-d4f6-43a6-82cc-0a3e10eca0f9" />
